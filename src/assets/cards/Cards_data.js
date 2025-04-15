@@ -24,15 +24,15 @@ const cards_data = [
     },
     {
         image:card_img3,
-        name:"Squid Challange"
+        name:"The Queen's Gambit"
     },
     {
         image:card_img4,
-        name:"Jawan"
+        name:"Peaky Blinders"
     },
     {
         image:card_img5,
-        name:"The Ghost"
+        name:"Black Mirror"
     },
     {
         image:card_img6,
@@ -40,31 +40,31 @@ const cards_data = [
     },
     {
         image:card_img7,
-        name:"The Railway MEN"
+        name:"When Life Gives You Tangerines"
     },
     {
         image:card_img8,
-        name:"Young Sheldon"
+        name:"The Mist"
     },
     {
         image:card_img9,
-        name:"Sacred Games"
+        name:"Mo"
     },
     {
         image:card_img10,
-        name:"Adipurush"
+        name:"Interstellar"
     },
     {
         image:card_img11,
-        name:"Sukhee"
+        name:"Oxygen"
     },
     {
         image:card_img12,
-        name:"Mission Ganj"
+        name:"Alice in Borderland"
     },
     {
         image:card_img13,
-        name:"Leo"
+        name:"Spirited Away"
     },
     {
         image:card_img14,
